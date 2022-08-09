@@ -16,8 +16,9 @@ color: black;
 
 /* Stylesheet for pasta.html */
 
-.recipe .header{
+.recipe.header{
 
+color: violet;
 font-size: 22;
 
 font-style: italic;
