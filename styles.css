@@ -1,3 +1,5 @@
+/* This section of the styleshee is for index.html */
+
 .recipes{
 
 color: rgb(181, 103, 103);
@@ -6,8 +8,26 @@ font-weight: bold;
 
 }
 
-.instructions{
+.recipes.instructions{
 
 color: black;
+
+}
+
+/* Stylesheet for pasta.html */
+
+.recipe .header{
+
+font-size: 22;
+
+font-style: italic;
+font-weight: bold;
+
+}
+
+.list{
+
+font-weight: bolder;
+font-style: italic;
 
 }
